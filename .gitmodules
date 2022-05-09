@@ -1,0 +1,9 @@
+[submodule "ReactQuiz"]
+	path = ReactQuiz
+	url = https://github.com/destrex271/ReactQuiz
+[submodule "ReactTodoItem"]
+	path = ReactTodoItem
+	url = https://github.com/destrex271/ReactTodoItem
+[submodule "ReacAccordianDemo"]
+	path = ReacAccordianDemo
+	url = https://github.com/destrex271/ReacAccordianDemo
